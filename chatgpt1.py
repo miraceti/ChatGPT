@@ -20,5 +20,5 @@ while True:
         temperature=0.5,
     )
 
-    # Afficher la réponse
+    # Afficher la réponse gt
     print(response["choices"][0]["text"])
