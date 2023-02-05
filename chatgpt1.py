@@ -2,7 +2,7 @@
 import openai
 
 # Configurer une clé d'API valide
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 while True:
