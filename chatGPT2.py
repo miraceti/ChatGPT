@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 
 # Configurer une clé d'API valide
-openai.api_key = "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"
+openai.api_key = "sk-K1rdYkDkXGh41FijEtawT3BlbkFJKP4Plj7CTIhdxXxGjBsUque"
 
 # Initialiser le moteur de synthèse vocale
 engine = pyttsx3.init()
